@@ -5,5 +5,9 @@ This Jupyter Notebook explores real-world data to create recommendations to aggr
 📑 Table of Contents:
 
 -Association Rules. 
+
+
 -Colavorative Filtering.
+
+
 -Results
